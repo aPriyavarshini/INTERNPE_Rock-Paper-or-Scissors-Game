@@ -13,12 +13,12 @@ This is a simple Rock, Paper, Scissors game where you can play against the compu
 3. **See the Result**: The computer will randomly choose its move, and the result of the game will be displayed along with the updated score.
 
 ## Example output
-Welcome to Rock, Paper, Scissors!
-Instructions: Enter 'Rock', 'Paper', or 'Scissors' to play.
-Type 'exit' to quit the game.
-Enter your move: Rock
-Computer move: Scissors
-Rock crushes Scissors. You win!
-Score: You - 1 | Computer - 0 | Ties - 0
-Enter your move: exit
-Thanks for playing!
+Welcome to Rock, Paper, Scissors!                                                                                                                                     
+Instructions: Enter 'Rock', 'Paper', or 'Scissors' to play.                                                                                                           
+Type 'exit' to quit the game.                                                                                                                                         
+Enter your move: Rock                                                                                                                                                 
+Computer move: Scissors                                                                                                                                               
+Rock crushes Scissors. You win!                                                                                                                                       
+Score: You - 1 | Computer - 0 | Ties - 0                                                                                                                              
+Enter your move: exit                                                                                                                                                 
+Thanks for playing!                                                                                                                                                   
